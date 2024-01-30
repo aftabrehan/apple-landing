@@ -25,7 +25,7 @@ This is a clone of the Apple landing page, created using React JS, Next.js, Java
 1. Clone the repository.
 
 ```
-git clone https://github.com/aftabrehan/apple-landing
+git clone https://github.com/aftabrehan/apple-landing.git
 ```
 
 2. Install the required dependencies.
